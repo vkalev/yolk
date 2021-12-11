@@ -1,7 +1,7 @@
 # yolk
 
 ### MCM1701I – Digital Worlding Final Project
-Joey Han, Freddie Yu, Kira Kelly Clarke, & Victor Kalev
+Joey Han, Freddie Yu, Kira Kelly Clarke & Victor Kalev
 
 <p align="center">
     <img width="1000" src="https://user-images.githubusercontent.com/50213748/145688797-6b4822b5-763e-4d3d-801d-632631428756.gif">
